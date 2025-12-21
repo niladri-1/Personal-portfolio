@@ -1,39 +1,39 @@
 {
-	"name": "niladri_chatterjee_portfolio",
-	"version": "0.1.0",
-	"private": true,
-	"scripts": {
-		"dev": "next dev",
-		"build": "next build",
-		"start": "next start",
-		"lint": "next lint"
-	},
-	"dependencies": {
-		"@react-three/drei": "^9.99.0",
-		"@react-three/fiber": "^8.15.16",
-		"@vercel/analytics": "^1.2.0",
-		"@vercel/speed-insights": "^1.2.0",
-		"framer-motion": "^11.0.5",
-		"helmet": "^7.1.0",
-		"lucide-react": "^0.344.0",
-		"next": "^14.2.28",
-		"next-pwa": "^5.6.0",
-		"react": "^18.2.0",
-		"react-dom": "^18.2.0",
-		"swr": "^2.2.5",
-		"three": "^0.161.0"
-	},
-	"devDependencies": {
-		"@types/node": "^20.11.19",
-		"@types/react": "^18.2.55",
-		"@types/react-dom": "^18.2.19",
-		"@types/three": "^0.161.2",
-		"autoprefixer": "^10.4.18",
-		"eslint": "^8.56.0",
-		"eslint-config-next": "14.1.0",
-		"postcss": "^8.4.35",
-		"tailwindcss": "^3.4.1",
-		"typescript": "^5.3.3",
-		"workbox-webpack-plugin": "^7.0.0"
-	}
+  "name": "niladri_chatterjee_portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.99.0",
+    "@react-three/fiber": "^8.15.16",
+    "@vercel/analytics": "^1.2.0",
+    "@vercel/speed-insights": "^1.2.0",
+    "framer-motion": "^11.0.5",
+    "helmet": "^7.1.0",
+    "lucide-react": "^0.344.0",
+    "next": "14.2.35",
+    "next-pwa": "^5.6.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "swr": "^2.2.5",
+    "three": "^0.161.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "@types/react": "^18.2.55",
+    "@types/react-dom": "^18.2.19",
+    "@types/three": "^0.161.2",
+    "autoprefixer": "^10.4.18",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "14.1.0",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.3.3",
+    "workbox-webpack-plugin": "^7.0.0"
+  }
 }
